@@ -305,7 +305,7 @@ var APP_DATA = {
           "yaw": 0.7355012071105698,
           "pitch": 0.1338491283810086,
           "title": "Pressure measurement",
-          "text": "Text"
+          "text": "In this experiment students will learn how different pressure measurement devices function.  This knowledge is essential when selecting an appropriate pressure measurement device for a specific application.&nbsp;"
         },
         {
           "yaw": 0.07420625997855623,
