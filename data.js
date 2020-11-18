@@ -305,25 +305,25 @@ var APP_DATA = {
           "yaw": 0.7355012071105698,
           "pitch": 0.1338491283810086,
           "title": "Pressure measurement",
-          "text": "In this experiment students will learn how different pressure measurement devices function.  This knowledge is essential when selecting an appropriate pressure measurement device for a specific application.&nbsp;"
+          "text": "This first year experiment introduces you to various concepts surrounding pressure and its measurement, it also introduces different devices for the measurement of pressure and investigates the applicability of various fluid dynamics equations.&nbsp;"
         },
         {
           "yaw": 0.07420625997855623,
           "pitch": 0.2415288480389144,
           "title": "Flow rate measurement",
-          "text": "Text"
+          "text": "This first year experiment provides an introduction to six different methods for measuring flow rate which are used in a wide range of engineering applications.  It is essential that you understand the function, advantages and limitations of flow measurement devices when selecting one for a specific application.&nbsp;"
         },
         {
           "yaw": -1.6023074264693058,
           "pitch": -0.01738680540678139,
           "title": "Open-channel Hydraulics",
-          "text": "This experiment aims to illustrate the hydraulic jump in open channel flows, and to show that for fluids, as for solid bodies, changes of momentum are brought about by the action of forces.&nbsp;"
+          "text": "This second year experiment aims to illustrate the hydraulic jump in open channel flows, and to show that for fluids, as for solid bodies, changes of momentum are brought about by the action of forces.&nbsp;"
         },
         {
           "yaw": -2.3385854365009084,
           "pitch": 0.2270758762605034,
           "title": "Heat transfer",
-          "text": "Text"
+          "text": "This third year experiment aims to help you appreciate the basics of forced convection in turbulent flow, and the value of using dimensionless parameters for expressing the heat transfer coefficient.&nbsp;"
         }
       ]
     },
