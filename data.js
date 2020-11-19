@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-christoperhson-main-entrance",
-      "name": "Christoperhson Main Entrance",
+      "name": "Christopherson Main Entrance",
       "levels": [
         {
           "tileSize": 256,
