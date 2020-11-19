@@ -108,7 +108,7 @@ var APP_DATA = {
           "yaw": -0.002372642714171036,
           "pitch": 0.04690942525793673,
           "title": "Small lecture rooms",
-          "text": "Text"
+          "text": "The Department of Engineering has a number of small lecture rooms that are used in the 3rd and 4th years of our degrees, where the class sizes are smaller once students have started to specialise."
         }
       ]
     },
@@ -736,7 +736,7 @@ var APP_DATA = {
         {
           "yaw": 2.356917034410544,
           "pitch": 0.18157844945427826,
-          "title": "Air conditioning",
+          "title": "Air conditioning experiment",
           "text": "The object of this second year experiment is to observe the operation of air conditioning equipment using the Hilton air conditioning laboratory unit.  An understanding of heat and mass flows in an air conditioning unit will be gained which is a key application of thermodynamic theory.&nbsp;"
         },
         {
@@ -749,7 +749,7 @@ var APP_DATA = {
     },
     {
       "id": "13-bridge-christopherson-higginson-link",
-      "name": "Bridge: Christopherson-Higginson Link",
+      "name": "Christopherson-Higginson Link",
       "levels": [
         {
           "tileSize": 256,
