@@ -853,7 +853,7 @@ var APP_DATA = {
           "text": "The Department of Engineering houses a number of seminar rooms that are used for small class teaching, especially in the later years of our degrees.  They are also used to teach sketching to first year students and for design activities."
         },
         {
-          "yaw": 2.551300486812713,
+          "yaw": 2.651300486812713,
           "pitch": 0.25994315626403974,
           "title": "Keeping people safe",
           "text": "Through hand sanitising stations at building entrances."
