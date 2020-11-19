@@ -267,7 +267,7 @@ var APP_DATA = {
           "yaw": 0.08457840541549544,
           "pitch": 0.0882122301452739,
           "title": "Clean room",
-          "text": "Text"
+          "text": "The microfabrication cleanroom is part of the Department of Engineering's Next Generation Materials and Micro System challenge.  The laboratory is clean, not in a medical sense, but in terms of the about of contaminating particles in the air (such as dust). Our laboratories are located on two floors and comprise a chemical preparation facility, testing laboratories and fabrication cleanroom.  The cleanroom itself comprises two sections – designated the white area and the yellow area. It is fully fitted with dedicated fume cupboards and workstations. It is class 1000 in the main regions, and class 100 in the lithography suite (the class denotes how clean the air is - the lower the number the less contaminating particles in the air). The white area is generally used for measurements and depositions, whilst the yellow area is used for wet processes.  The main areas of research include microscale device fabrication, organic/plastic electronics (OLEDs, OPV, organic transistors), paper based devices, THz structures surface coatings and specialist materials and nanoscale devices and structures."
         }
       ]
     },
