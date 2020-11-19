@@ -600,20 +600,20 @@ var APP_DATA = {
         {
           "yaw": -2.3618955367398087,
           "pitch": 0.4839752361351177,
-          "title": "Electronics lab 1",
-          "text": "Text"
+          "title": "Electronic Measurement",
+          "text": "The 1st year students attend lectures on electronic circuit design. In this experiment, they learn how to use measurement instrumentation (e.g. oscilloscopes, power supplies and multimeters) to characterise the current-voltage behaviour of a range of electronic components and circuit configurations."
         },
         {
           "yaw": -1.6298276911520908,
           "pitch": 0.15319911238601058,
-          "title": "Electronics lab 2",
-          "text": "Text"
+          "title": "Embedded Systems",
+          "text": "Microcontrollers are compact, low powered computers that are embedded inside many modern electronic devices. This experiment gives the 2nd year students practical experience of how a microcontroller can be interfaced with an analogue electronic circuit to measure temperature changes. The students need to apply their knowledge of electronic circuit design,  analogue to digital signal conversion and programming."
         },
         {
           "yaw": -2.5757241393839934,
           "pitch": 0.09382798839019557,
-          "title": "Electronics lab 3",
-          "text": "Text"
+          "title": "Transistor Characterisation",
+          "text": "By the 3rd year, the students who have chosen to specialise in Electronic Engineering learn about semiconductor devices such as the MOS transistor. In this laboratory, they rely on the measurement skills acquired in earlier years to measure transistor characteristics. Similar approaches are used in industry to obtain the parameters for simulation models and to provide information about the current state of processing in an integrated circuit fabrication plant."
         }
       ]
     },
