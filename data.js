@@ -61,7 +61,7 @@ var APP_DATA = {
           "yaw": 1.6674100969616479,
           "pitch": 0.11931672207033195,
           "title": "Keeping people safe",
-          "text": "Through signage &amp; information points and hand sanitising stations at building entrances."
+          "text": "Through signage &amp; information points and hand sanitising stations at building entrances.&nbsp;"
         }
       ]
     },
@@ -383,7 +383,7 @@ var APP_DATA = {
           "yaw": 0.7819246360599656,
           "pitch": 0.08297729599365766,
           "title": "Keeping people safe",
-          "text": "Through one way systems during these difficult times.&nbsp;"
+          "text": "Through one way systems and clear signage.&nbsp;"
         }
       ]
     },
@@ -654,7 +654,7 @@ var APP_DATA = {
           "yaw": 0.11391703465858427,
           "pitch": -0.08330927455299886,
           "title": "2m Wind Tunnel",
-          "text": "The Department of Engineering's largest wind tunnel."
+          "text": "The Durham 2m wind tunnel in the Department of Engineering is the main research wind tunnel facility for performing state of the art turbomachinery and aerodynamics research.  Applications include: road vehicles, race cars, aircraft, wind turbines, etc.&nbsp;"
         },
         {
           "yaw": 0.7972851226718376,
@@ -666,7 +666,7 @@ var APP_DATA = {
           "yaw": -0.41625590441982574,
           "pitch": 0.07285757710917551,
           "title": "Surface friction",
-          "text": "Text"
+          "text": "This experimental facility looks at the friction forces generated as air flows over different surfaces."
         }
       ]
     },
@@ -844,13 +844,13 @@ var APP_DATA = {
           "yaw": 2.035282199178196,
           "pitch": 0.08977737957900267,
           "title": "Reception",
-          "text": "Text"
+          "text": "The main Reception for the Department of Engineering and a key point of contact if our students have any questions about their academic studies."
         },
         {
           "yaw": -0.24170425266949103,
           "pitch": 0.032528199113532,
           "title": "Seminar room",
-          "text": "Text"
+          "text": "The Department of Engineering houses a number of seminar rooms that are used for small class teaching, especially in the later years of our degrees.  They are also used to teach sketching to first year students and for design activities."
         },
         {
           "yaw": 2.551300486812713,
@@ -907,25 +907,25 @@ var APP_DATA = {
           "yaw": -2.764428731214963,
           "pitch": 0.13669784838815957,
           "title": "Compression testing",
-          "text": "Text"
+          "text": "This first year experiment investigates compressive failure of metal struts, comparing theoretical buckling loads with experimental results and observations."
         },
         {
           "yaw": -1.362867628252813,
           "pitch": 0.23813071000096286,
           "title": "Concrete Beam",
-          "text": "Text"
+          "text": "This third year experiment allows students to compare theoretical predictions for the behaviour of reinforced concrete structures with real results for an intact and cracked section, from initial loading to ultimate failure."
         },
         {
           "yaw": 1.515460124864438,
           "pitch": 0.057638266258209114,
           "title": "Geotechnical Engineering",
-          "text": "Text"
+          "text": "The Civil Engineering laboratory contains a number of geotechnical engineering experimental tests that our third year Civil Engineering students will complete.  These include triaxial tests, shear boxes, consolidation tests and characterisation investigations."
         },
         {
           "yaw": 0.3687091320752671,
           "pitch": 0.38156882689165883,
           "title": "Structures dissertation project",
-          "text": "Text"
+          "text": "This is an example of a final year dissertation research and development project where a Civil Engineering student investigated the impact of post-reinforcing concrete arches with composite plates.  This can provide significantly more capacity to the structure but it also changes the failure mode."
         }
       ]
     },
@@ -970,43 +970,43 @@ var APP_DATA = {
           "yaw": -0.8745402873811869,
           "pitch": 0.20012456298075243,
           "title": "Truss experiment",
-          "text": "Text"
+          "text": "The main motivation behind this second year lab is to help gauge our understanding of how a theoretical calculation method in the area of structural mechanics can reflect reality, with a specific application on truss structures. In the process you will see that our abstract understanding of how things should work is not necessarily always so easy to apply. This is a part of what engineering is about: playing with our understanding so that it can reflect reality, and conversely, playing with (engineering) reality so that it can reflect our understanding. "
         },
         {
           "yaw": -2.059629515589421,
           "pitch": -0.017479407780534473,
           "title": "Beam vibration",
-          "text": "Text"
+          "text": "This third year laboratory investigates the natural frequencies and mode shapes of vibration of a beam. This is important when understanding the response of structures when subject to dynamic loads/vibrations - hitting a structures natural frequency can lead to catastrophic failure."
         },
         {
           "yaw": 1.9652592708147836,
           "pitch": -0.03966630286183914,
           "title": "Beam bending",
-          "text": "Text"
+          "text": "This first year lab focuses on the bending of beams.  When  transverse  loads  are  applied  in  a  beam,  the  beam  will  bend  or  deflect.  The  determination  of  the deflection of a beam is important in structural design in order to avoid excessive deflections that have an adverse effect on the structural members. "
         },
         {
           "yaw": 2.618278393083486,
           "pitch": 0.3482339051624024,
           "title": "Stress concentrations",
-          "text": "Text"
+          "text": "Stresses are known to concentrate around holes and other geometric features. The aim of this second year experiment is to allow you to observe, through strain gauge readings, the stress concentration around a hole in a plate, and to compare your findings with the results of a computational simulation."
         },
         {
           "yaw": 0.605656733520961,
           "pitch": 0.04421540351742337,
           "title": "Tension testing",
-          "text": "Text"
+          "text": "The aim of this first year lab is to develop an understanding of the behaviour of structural members of differing materials in axial tension.  Students investigate both metal and plastic specimens and understand the key differences between their response and how this is linked to the microstructure of the materials."
         },
         {
           "yaw": -1.3656570752054336,
           "pitch": -0.03096469052916362,
           "title": "Structural Mechanics",
-          "text": "Text"
+          "text": "The aim of this third year experiment is to develop a better understanding of structural behaviour in bending and torsion through comparison of laboratory measurements on loaded sections with analytical results and computational modelling. "
         },
         {
           "yaw": -0.6168566963193047,
           "pitch": -0.050555219529114126,
           "title": "Bending &amp; torsion",
-          "text": "Text"
+          "text": "The aim of this first year experiment is to link the measured patterns of 2D strains and stresses, in a hollow cylindrical steel cantilever subjected to bending and torsion, with those predicted by linear stress analysis theory."
         }
       ]
     }
