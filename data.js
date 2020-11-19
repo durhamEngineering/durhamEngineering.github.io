@@ -165,7 +165,7 @@ var APP_DATA = {
           "yaw": 0,
           "pitch": 0,
           "title": "Sir Derman Christopherson",
-          "text": "Text"
+          "text": "Sir Derman Guy Christopherson OBE FRS FREng founded the current Department of Engineering in Durham City in 1965.&nbsp;&nbsp;"
         }
       ]
     },
@@ -308,13 +308,13 @@ var APP_DATA = {
           "yaw": 1.7008837660934208,
           "pitch": -0.17249806717716254,
           "title": "Dual projection",
-          "text": "Text"
+          "text": "Most teaching rooms have dual projection systems which allows lectures to display, for example, slides and another source, such as a document visualiser.  All lectures are recorded, capturing the lecturer's voice and anything that is displayed through the projectors.  These recordings are available to students to help with understanding/revision.&nbsp;"
         },
         {
           "yaw": -0.12898085250849256,
           "pitch": -0.004441400500411419,
           "title": "Engineering large lecture theatre",
-          "text": "Text"
+          "text": "The Department of Engineering has a number of lecture theatres, including two on Level 1 that are suitable for teaching students in the 3rd and 4th years of their Engineering degrees, where the class sizes are around 60 students or less.&nbsp;"
         },
         {
           "yaw": 0.6108617879626443,
@@ -440,13 +440,13 @@ var APP_DATA = {
           "yaw": 1.0739433067875286,
           "pitch": 0.05517237066870173,
           "title": "Computing Resources",
-          "text": "Text"
+          "text": "The computers in the Department of Engineering are high specification so that they can meet the demands of modern Engineering software packages, such as Computer Aided Design (CAD) and analysis software.&nbsp;"
         },
         {
           "yaw": -0.4719349690717394,
           "pitch": 0.11933525634457887,
           "title": "Open access flexible space",
-          "text": "Text"
+          "text": "This is a flexible space to support our students' studies and is not used for timetabled teaching so that it remains available for our students to use when they need it.&nbsp;"
         }
       ]
     },
@@ -491,13 +491,13 @@ var APP_DATA = {
           "yaw": 0.24861860024984672,
           "pitch": -0.05491627258732734,
           "title": "Flexible space",
-          "text": "Text"
+          "text": "This space can be adapted to seat 80 students or two small groups depending on the software being taught and the size of the class.  Here you will learn how to programme and use Computer Aided Design (CAD) tools in your first year through to advanced Engineering analysis tools towards the end of your degree.&nbsp;"
         },
         {
           "yaw": -2.135121603603144,
           "pitch": 0.21466749203311153,
           "title": "Engineering computing resources",
-          "text": "Text"
+          "text": "The computers in the Department of Engineering are high specification so that they can meet the demands of modern Engineering software packages, such as Computer Aided Design (CAD) and analysis software.&nbsp;"
         }
       ]
     },
@@ -595,7 +595,7 @@ var APP_DATA = {
           "yaw": 0.22757603808187987,
           "pitch": -0.06736412606608688,
           "title": "Durham Cathedral",
-          "text": "Text"
+          "text": "Is a landmark within Durham City and is visible for miles around.&nbsp;"
         },
         {
           "yaw": -2.3618955367398087,
@@ -654,13 +654,13 @@ var APP_DATA = {
           "yaw": 0.11391703465858427,
           "pitch": -0.08330927455299886,
           "title": "2m Wind Tunnel",
-          "text": "Text"
+          "text": "The Department of Engineering's largest wind tunnel."
         },
         {
           "yaw": 0.7972851226718376,
           "pitch": -0.18637074321558167,
-          "title": "Blow-down Rig",
-          "text": "Text"
+          "title": "Blow-down facility",
+          "text": "This large tank of pressurised air is used to run experiments on high flow velocity components, such as sealing on turbines and turbo-chargers.&nbsp;"
         },
         {
           "yaw": -0.41625590441982574,
@@ -707,43 +707,43 @@ var APP_DATA = {
           "yaw": -2.2976050284590652,
           "pitch": 0.2488787168365132,
           "title": "Heat Transfer",
-          "text": "Text"
+          "text": "This third year experiment aims to help you appreciate the basics of forced convection in turbulent flow, and the value of using dimensionless parameters for expressing the heat transfer coefficient.&nbsp;"
         },
         {
           "yaw": -1.595325629447455,
           "pitch": -0.0258705544493516,
           "title": "Open-channel hydraulics",
-          "text": "Text"
+          "text": "This second year experiment aims to illustrate the hydraulic jump in open channel flows, and to show that for fluids, as for solid bodies, changes of momentum are brought about by the action of forces.&nbsp;"
         },
         {
           "yaw": 0.12354565115368565,
           "pitch": 0.23935550933775396,
           "title": "Flow measurement",
-          "text": "Text"
+          "text": "This first year experiment provides an introduction to six different methods for measuring flow rate which are used in a wide range of engineering applications.  It is essential that you understand the function, advantages and limitations of flow measurement devices when selecting one for a specific application.&nbsp;"
         },
         {
           "yaw": 0.7321788765619424,
           "pitch": 0.2500947013596786,
           "title": "Pressure measurement",
-          "text": "Text"
+          "text": "This first year experiment introduces you to various concepts surrounding pressure and its measurement, it also introduces different devices for the measurement of pressure and investigates the applicability of various fluid dynamics equations.&nbsp;"
         },
         {
           "yaw": 1.6100425115033161,
           "pitch": 0.050408257115899247,
           "title": "Pipe flow",
-          "text": "Text"
+          "text": "The object of this experiment is to observe and describe the two types of flow (laminar and turbulent) which can occur in a pipe.&nbsp; The two different types of flow are to be described in terms of their usual appearance at the pipe outlet, their velocity profiles, the energy (or head) loss/unit length of pipe and the friction factor, occurring with each type of flow.&nbsp; Pipe line head losses directly influence the energy requirements of a number of important human activities such as water and fuel distribution.&nbsp;&nbsp;"
         },
         {
           "yaw": 2.356917034410544,
           "pitch": 0.18157844945427826,
           "title": "Air conditioning",
-          "text": "Text"
+          "text": "The object of this second year experiment is to observe the operation of air conditioning equipment using the Hilton air conditioning laboratory unit.  An understanding of heat and mass flows in an air conditioning unit will be gained which is a key application of thermodynamic theory.&nbsp;"
         },
         {
           "yaw": -1.2256098693140096,
           "pitch": 0.10319536615881297,
           "title": "Transonic flow",
-          "text": "Text"
+          "text": "This inner room houses a third year experiment that investigates subsonic and supersonic flow. Students gain an understanding of the shock wave pattern for a diamond-shaped aerofoil in supersonic flow.&nbsp;"
         }
       ]
     },
@@ -838,7 +838,7 @@ var APP_DATA = {
           "yaw": 3.039756826905858,
           "pitch": 0.06757481398980758,
           "title": "Science Campus",
-          "text": "Text"
+          "text": "The Department of Engineering is situated within Durham University's main Science Campus and easy walking distance of all of our colleges.&nbsp;"
         },
         {
           "yaw": 2.035282199178196,
