@@ -749,7 +749,7 @@ var APP_DATA = {
     },
     {
       "id": "13-bridge-christopherson-higginson-link",
-      "name": "Bridge: Christopherson-Higginson Link",
+      "name": "Christopherson-Higginson Link",
       "levels": [
         {
           "tileSize": 256,
