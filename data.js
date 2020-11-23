@@ -544,13 +544,13 @@ var APP_DATA = {
           "yaw": 2.238093168773629,
           "pitch": 0.33796984295906896,
           "title": "AC Electric Machine Experiment",
-          "text": "Text"
+          "text": "The aim of this first year experiment is to investigate Faraday’s Law and make you familiar with experimenting with electrical machines."
         },
         {
           "yaw": 0.3687770393976848,
           "pitch": 0.24713151584075987,
           "title": "DC Motor Experiment",
-          "text": "Text"
+          "text": "The aim of this second year experiment is to investigate the properties and operation of DC machines."
         }
       ]
     },
