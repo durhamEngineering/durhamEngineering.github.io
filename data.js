@@ -543,13 +543,13 @@ var APP_DATA = {
         {
           "yaw": 2.238093168773629,
           "pitch": 0.33796984295906896,
-          "title": "Electrical machines",
+          "title": "AC Electric Machine Experiment",
           "text": "Text"
         },
         {
           "yaw": 0.3687770393976848,
           "pitch": 0.24713151584075987,
-          "title": "Electrical machines 2",
+          "title": "DC Motor Experiment",
           "text": "Text"
         }
       ]
