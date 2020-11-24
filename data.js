@@ -544,13 +544,13 @@ var APP_DATA = {
           "yaw": 2.238093168773629,
           "pitch": 0.33796984295906896,
           "title": "AC Electric Machine Experiment",
-          "text": "The aim of this first year experiment is to investigate Faraday’s Law and make you familiar with experimenting with electrical machines."
+          "text": "This first year experiment showcases the basic principles of a simple electric machine. Electric machines are the backbones of any modern industrial society. They run our manufacturing plants, drive our electric cars and trains, and are used in everyday tools from kitchen appliances to power construction tools not to mention more advanced technologies such as robotics. They are also used to generate electricity. All electric machines are basically electromechanical energy conversion systems which work based on the principles of interactions of electric and magnetic fields (electromagnetism) first discovered and formulated by Faraday, Ampere and Maxwell in the latter half of the 19th century. In this experiment students will learn how principles such as the law of electromagnetic induction is applied to generate electricity in a rotating electric machine simply by applying a rotational mechanical force to the machine and allowing it to interact with a magnetic field. This basic principle is the very same process with which we generate electricity in our power plants."
         },
         {
           "yaw": 0.3687770393976848,
           "pitch": 0.24713151584075987,
           "title": "DC Motor Experiment",
-          "text": "The aim of this second year experiment is to investigate the properties and operation of DC machines."
+          "text": "In this lab, seccond year students will get to experiment with a simple DC motor drive system. A DC motor is any electric machine that works with Direct Current (DC) electricity (as opposed to Alternating Current which is the electricity you get from our household outlets). DC motors are more versatile and flexible to control and operate. In this experiment students will learn how they can control the motor speed and its torque by varying motor supply. Students will learn how they can relate speed variations to electric power applied to the motor and how changes in one will impact the other. This relationship between speed and applied electric power in a DC motor provides a powerful tool for us to create variable speed and variable torque motor drive systems for example for electric cars that can outperform even the most powerful and efficient internal combustion engines."
         }
       ]
     },
